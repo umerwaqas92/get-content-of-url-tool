@@ -1,3 +1,6 @@
+![alt text](/Screenshot_01.png)
+
+
 URL Text Retriever
 URL Text Retriever is a Python GUI tool that retrieves the plain text content of a web page and displays it in a user-friendly interface. The tool uses the Requests library and BeautifulSoup to fetch and parse the web page content, respectively.
 
